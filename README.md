@@ -6,7 +6,6 @@
 
 <br>
 	
-<!-- ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **About me** -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
 <picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
@@ -28,15 +27,16 @@
 
 <p align="center">
 
-- **Languages**:
-    
+## Languages 
+  -
     ![C](https://icongr.am/devicon/c-original.svg?size=100&color=currentColor)
     ![JAVA](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)
     ![Python](https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor)
 
 <br>   
-    
-- **Front-End Development**:
+
+## Front-End Development 
+-
 
    ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=100&color=currentColor)
    ![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=100&color=currentColor)
