@@ -5,7 +5,9 @@
 </p>
 
 <br>
-	
+-
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
 <picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
