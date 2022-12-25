@@ -29,9 +29,9 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C](https://icongr.am/devicon/c-original.svg?size=128&color=currentColor)
+    ![JAVA](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)
+    ![Python](https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor)
 
 <br>   
     
@@ -68,7 +68,7 @@
 <br>
 
 ## <b>Coding Profiles </b><br>
-<div style="border:2px solid black;padding:50px 10px;border-radius:20px">
+<div >
     <a href="https://leetcode.com/Anikate_Agrawal/">
         <img src="./images/leetcode.svg" alt="leetcode profile" width="200">
     </a>
