@@ -71,7 +71,7 @@
 ## <b>Coding Profiles </b><br>
 <div >
     <a href="https://leetcode.com/Anikate_Agrawal/">
-        <img src="./images/leetcode.svg" alt="leetcode profile" width="200">
+        <img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" alt="leetcode profile" width="200">
     </a>
     <a href="https://www.hackerrank.com/anikate_agrawal1">
         <img src="./images/hackerrank.webp" alt="hackerrank profile" width="200">
