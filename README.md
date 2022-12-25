@@ -17,7 +17,7 @@
 - Working on enhancing my programming skills
 - Currently learning Full Stack Development
 - Personal website [link](https://anikateagrawal.github.io/My-Resume/)
-- This is [my resume](./Resume.pdf)
+
 
 <br><br>
 
