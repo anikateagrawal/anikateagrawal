@@ -6,9 +6,9 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/anikateagrawal/anikateagrawal/blob/8b68af2de28255c085b47c888341702e63238b68/images/dp.png" width = 50px></picture> **About me**
+## <picture><img src = "https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/anikateagrawal/anikateagrawal/blob/8b68af2de28255c085b47c888341702e63238b68/images/dp.png" width = 250px></picture>
+<picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = 250px></picture>
 
 <br>
 
