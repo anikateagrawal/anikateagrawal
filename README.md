@@ -6,7 +6,7 @@
 
 <br>
 	
-## <picture><img src = "https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = 250px></picture>
 
