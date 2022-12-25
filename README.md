@@ -37,7 +37,6 @@
 
 ## Front-End Development 
 -
-
    ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=100&color=currentColor)
    ![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=100&color=currentColor)
    ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)
@@ -68,7 +67,7 @@
 
 <br>
 
-## <b>Coding Profiles </b><br>
+# <b>Coding Profiles </b><br>
 <div >
     <a href="https://leetcode.com/Anikate_Agrawal/">
         <img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" alt="leetcode profile" width="250">
@@ -78,7 +77,7 @@
     </a>
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -99,7 +98,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b> <img src="https://media.tenor.com/02ILjyFVXWQAAAAC/handshake.gif" width ="40">
+# <b> Let's Connect..!</b> <img src="https://media.tenor.com/02ILjyFVXWQAAAAC/handshake.gif" width ="40">
 <br>
 <div align='left'>
 
