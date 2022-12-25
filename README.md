@@ -5,8 +5,8 @@
 </p>
 
 <br>
--
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
+<img src="https://komarev.com/ghpvc/?username=anikateagrawal&style=flat-square&color=blue" alt="Views"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
