@@ -74,7 +74,7 @@
         <img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" alt="leetcode profile" width="200">
     </a>
     <a href="https://www.hackerrank.com/anikate_agrawal1">
-        <img src="./images/hackerrank.webp" alt="hackerrank profile" width="200">
+        <img src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="hackerrank profile" width="200">
     </a>
 </div>
 
