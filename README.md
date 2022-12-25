@@ -32,7 +32,7 @@
     
     ![C](https://icongr.am/devicon/c-original.svg?size=100&color=currentColor)
     ![JAVA](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)
-    ![Python](https://icongr.am/devicon/python-original-wordmark.svg?size=180&color=currentColor)
+    ![Python](https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor)
 
 <br>   
     
