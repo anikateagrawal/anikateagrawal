@@ -123,7 +123,7 @@
 
 <div align='center'>
 
-## <b>    ...✨</b>
+## <b>    Stay Cool! Stay Happy!...✨</b>
 
 </div>
 <br>
