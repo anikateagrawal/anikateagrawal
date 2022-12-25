@@ -104,18 +104,14 @@
 <div align='left'>
 
 <a href="https://www.linkedin.com/in/anikate-agrawal-8a03401bb/" target="_blank">
-<img src="https://icongr.am/devicon/linkedin-original.svg?size=100&color=currentColor" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://icongr.am/devicon/linkedin-original.svg?size=100&color=currentColor" alt=linkedin style="margin: 5px;"/>
 </a>
 
-<br>
 <a href="https://twitter.com/AnikateAgrawal" target="_blank">
-<img src="https://icongr.am/devicon/twitter-original.svg?size=100&color=currentColor" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://icongr.am/devicon/twitter-original.svg?size=100&color=currentColor" alt=twitter style="margin: 5px;"/>
 </a>
-
-<br>
-
 <a href="https://www.facebook.com/anikate.agrawal.9" target="_blank">
-<img src="https://icongr.am/devicon/facebook-original.svg?size=100&color=currentColor"  style="margin-bottom: 5px;" />
+<img src="https://icongr.am/devicon/facebook-original.svg?size=100&color=currentColor"  style="margin: 5px;" />
 </a>
 	
 </div>
