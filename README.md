@@ -99,7 +99,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://media.tenor.com/02ILjyFVXWQAAAAC/handshake.gif" width ="80">
+## <b> Let's Connect..!</b> <img src="https://media.tenor.com/02ILjyFVXWQAAAAC/handshake.gif" width ="40">
 <br>
 <div align='left'>
 
