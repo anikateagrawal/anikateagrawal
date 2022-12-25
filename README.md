@@ -6,7 +6,7 @@
 
 <br>
 	
-## <picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **About me**
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **About me**
 
 <picture> <img align="right" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif" width = "250px"></picture>
 
@@ -59,10 +59,6 @@
 
 <br>
 </p>
-##Coding Profiles
-    <a href="https://leetcode.com/Anikate_Agrawal/">
-        <img src="./images/leetcode.svg" alt="leetcode profile" width="200">
-    </a>
 
 <br>
 <br>
@@ -71,6 +67,15 @@
 
 <br>
 
+## <b>Coding Profiles </b><br>
+<div style="border:2px solid black;padding:50px 10px;border-radius:20px">
+    <a href="https://leetcode.com/Anikate_Agrawal/">
+        <img src="./images/leetcode.svg" alt="leetcode profile" width="200">
+    </a>
+    <a href="https://www.hackerrank.com/anikate_agrawal1">
+        <img src="./images/hackerrank.webp" alt="hackerrank profile" width="200">
+    </a>
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
