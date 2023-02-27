@@ -84,6 +84,9 @@
     <a href="https://codeforces.com/profile/anikateagrawal">
         <img src="https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1" alt="hackerrank profile" width="200">
     </a>
+    <a href="https://auth.geeksforgeeks.org/user/anikateag7316">
+        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="hackerrank profile" width="200">
+    </a>
 </div>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
