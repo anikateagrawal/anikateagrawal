@@ -79,7 +79,7 @@
         <img src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="hackerrank profile" width="200">
     </a>
     <a href="https://www.codechef.com/users/anikateagrawal">
-        <img src="https://static.startuptalky.com/2021/04/codechef-logo-startuptalky.jpg" alt="codechef profile" width="200">
+        <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef profile" width="200">
     </a>
     <a href="https://codeforces.com/profile/anikateagrawal">
         <img src="https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1" alt="hackerrank profile" width="200">
