@@ -14,9 +14,9 @@
 
 <br>
 
-- A passionate Front-end developer
+- A passionate Full-Stack developer
 - Working on enhancing my programming skills
-- Currently learning Full Stack Development
+- Currently looking for a job
 - Personal website [link](https://anikateagrawal.github.io/My-Resume/)
 
 
@@ -37,11 +37,12 @@
 
 <br>   
 
-## Front-End Development 
+## Full-Stack Development 
 -
    ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=100&color=currentColor)
    ![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=100&color=currentColor)
    ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)
+   
 
 <br>
 
@@ -76,6 +77,12 @@
     </a>
     <a href="https://www.hackerrank.com/anikate_agrawal1">
         <img src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="hackerrank profile" width="200">
+    </a>
+    <a href="https://www.codechef.com/users/anikateagrawal">
+        <img src="https://static.startuptalky.com/2021/04/codechef-logo-startuptalky.jpg" alt="codechef profile" width="200">
+    </a>
+    <a href="https://codeforces.com/profile/anikateagrawal">
+        <img src="https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1" alt="hackerrank profile" width="200">
     </a>
 </div>
 
