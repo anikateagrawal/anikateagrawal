@@ -43,6 +43,7 @@
    ![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=100&color=currentColor)
    ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)
    
+   <i class="devicons devicons-mongodb"></i>
 
 <br>
 
