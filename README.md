@@ -91,7 +91,9 @@
     </a>
 </div>
 
-# <img src="https://tryhackme-badges.s3.amazonaws.com/Anikate.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/p/Anikate">
+	<img src="https://tryhackme-badges.s3.amazonaws.com/Anikate.png" alt="Try Hack Me Badge" />
+</a>
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
