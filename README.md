@@ -101,11 +101,8 @@
 <div align="center">
 
 <a href="https://github.com/anikateagrawal/">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikateagrawal&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikateagrawal&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="280" height="200" alt="Anikate Agrawal"/>
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=anikateagrawal&theme=dark)](https://git.io/streak-stats)
-
+  	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anikateagrawal&theme=github_dark" height="200"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anikateagrawal&theme=github_dark" height="200"/>
 </a>
 </div>
 
