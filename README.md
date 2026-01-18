@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Anikate Agrawal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;Computer+Science+Student,;Active+Learner/Problem+Solver,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;DSA+Competitive+Programming+Trainer,;Active+Learner/Problem+Solver,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br>
@@ -16,7 +16,7 @@
 
 - A passionate Full-Stack developer
 - Working on enhancing my programming skills
-- Currently looking for a job
+- Currently working as DSA and Competitive Programming Mentor at GLA University
 - Personal website [link](https://anikateagrawal.github.io/My-Resume/)
 
 
@@ -100,12 +100,12 @@
 
 <div align="center">
 
-<a href="https://github.com/anikateagrawal/">
-  	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anikateagrawal&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anikateagrawal&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anikateagrawal&theme=github_dark&utcOffset=5.5"/>
-
-</a>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=anikateagrawal&show_icons=true&theme=radical"
+     height="180" width="395"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anikateagrawal&layout=compact&theme=radical"
+     height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=anikateagrawal&theme=radical"
+     height="180"/>
 </div>
 
 <br>
