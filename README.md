@@ -101,8 +101,10 @@
 <div align="center">
 
 <a href="https://github.com/anikateagrawal/">
-  	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anikateagrawal&theme=github_dark" height="200"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anikateagrawal&theme=github_dark" height="200"/>
+  	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anikateagrawal&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anikateagrawal&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anikateagrawal&theme=github_dark&utcOffset=5.5"/>
+
 </a>
 </div>
 
